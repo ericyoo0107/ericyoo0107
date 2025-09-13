@@ -1,7 +1,6 @@
 # 유준혁 (Backend Developer)
 
 ### 🌱 About Me
-* Inha Univ (2020.03 ~)
 * SW Maestro 14기 (2023.04 ~ 2023.11)
 
 ### 🛠 Tech Stack
