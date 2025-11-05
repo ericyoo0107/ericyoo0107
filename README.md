@@ -3,9 +3,6 @@
 ## 🌱 About Me
 * Inha Univ (2020.03 ~ now)
 * SW Maestro 14기 (2023.04 ~ 2023.11)
-* Kizling
-
-## Project
 
 ## 🛠 Tech Stack
 <div align=left> 
