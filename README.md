@@ -1,9 +1,13 @@
 # 유준혁 (Backend Developer)
 
-### 🌱 About Me
+## 🌱 About Me
+* Inha Univ (2020.03 ~ now)
 * SW Maestro 14기 (2023.04 ~ 2023.11)
+* Kizling
 
-### 🛠 Tech Stack
+## Project
+
+## 🛠 Tech Stack
 <div align=left> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">   
@@ -15,5 +19,5 @@
   <br>
 </div>
 
-### ⚡ Contact
+## ⚡ Contact
 * Blog : https://yjh0107.tistory.com
