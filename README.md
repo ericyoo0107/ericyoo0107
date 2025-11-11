@@ -23,16 +23,16 @@
 ## 🌟 Projects
 
 ### 1. 자리나따 - 코레일 여석 알림 서비스 (2024.09 - 현재 운영중) 
-* **Tech:** `Java`, `Spring Boot`, `JPA`, `QueryDSL`, `MySQL`, `AWS EC2`, `AWS SNS`
+* **기술 스택:** `Java`, `Spring Boot`, `JPA`, `QueryDSL`, `MySQL`, `AWS EC2`, `AWS SNS`
 * [서비스 링크](https://www.zarinatta.com)
 
 
 ### 2. SideMatch - 기업 프로젝트 매칭 서비스 (2023.06 - 현재 운영중)
-* **Tech:** `Java`, `Spring Boot`, `JPA`, `QueryDSL`, `MySQL`, `MongoDB`, `AWS EC2`, `AWS S3`
-* [서비스 링크](https://sidematch.co.kr)
+* **기술 스택:** `Java`, `Spring Boot`, `JPA`, `QueryDSL`, `MySQL`, `MongoDB`, `AWS EC2`, `AWS S3`
+* [서비스 링크](https://sidematch.co.kr) 
 
 ### 3. 남아요 - 인하대학교 주변 신선 식품 할인 판매 서비스 (2024.04 - 2024.06)
-* **Tech:** `Java`, `Spring Boot`, `JPA`, `QueryDSL`, `MySQL`, `AWS EC2`
+* **기술 스택:** `Java`, `Spring Boot`, `JPA`, `QueryDSL`, `MySQL`, `AWS EC2`
 * 수상 내역
   * 인하대학교 Innovation Academy - 대상(1등)
-  * 2024 전국 SW중심대학 우수작품경진대회 - 후원기업상
+  * 2024 전국 SW중심대학 우수작품경진대회 - 후원기업상 [관련 기사](https://dhnews.co.kr/news/view/1065574305050726) 
