@@ -2,7 +2,8 @@
 
 ## 🌱 About Me
 * Inha Univ (2020.03 ~ now)
-* SW Maestro 14기 (2023.04 ~ 2023.11)
+* [SW Maestro 14기](https://swmaestro.ai/sw/main/main.do) (2023.04 ~ 2023.11)
+* [Kizling Backend Developer Intern](https://www.kizling.com) (2025.09 ~ 2025.12)
 
 ## 🛠 Tech Stack
 <div align=left> 
@@ -17,7 +18,7 @@
 </div>
 
 ## 🔗 Links
-* Resume : [LINK](https://drive.google.com/file/d/1pmh2oqckNmY-WNqLAYdYK0QCiwBur5_o/view?usp=sharing)
+* Resume : [LINK](https://drive.google.com/file/d/1ye0b7rQb6kCE4mBaWJa4gDxHQFzXHBBM/view?usp=sharing)
 * Blog : [LINK](https://yjh0107.tistory.com)
 
 ## 🌟 Projects
